@@ -1,5 +1,5 @@
 # 이력서
-Github : https://github.com/yoonhg84
+Github : https://github.com/yoon2825
 
 ## 회사프로젝트
 - 소속 : 우아한웨딩
